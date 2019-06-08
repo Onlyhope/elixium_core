@@ -13,3 +13,6 @@ mix.lock
 .\#*
 \#*\#
 native/build
+
+/sandbox
+.vscode 
