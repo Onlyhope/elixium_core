@@ -15,4 +15,5 @@ mix.lock
 native/build
 
 /sandbox
-.vscode 
+.vscode
+.elixir_ls/
